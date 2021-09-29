@@ -1,0 +1,92 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Casino.cpp
+Casino.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Casino.h
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Casino.h
+iostream
+-
+string
+-
+vector
+-
+map
+-
+Juego.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Juego.h
+Mayor13.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Mayor13.h
+DosColores.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/DosColores.h
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/DosColores.cpp
+DosColores.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/DosColores.h
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/DosColores.h
+Juego.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Juego.h
+cstdlib
+-
+ctime
+-
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Juego.cpp
+Juego.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Juego.h
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Juego.h
+Jugador.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Jugador.h
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Jugador.cpp
+Jugador.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Jugador.h
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Jugador.h
+iostream
+-
+string
+-
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Mayor13.cpp
+Mayor13.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Mayor13.h
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Mayor13.h
+Juego.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Juego.h
+cstdlib
+-
+ctime
+-
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Veintiuno.cpp
+Veintiuno.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Veintiuno.h
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Veintiuno.h
+Juego.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Juego.h
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/View/View.cpp
+View.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/View/View.h
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/View/View.h
+../Model/Casino.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/Model/Casino.h
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/main.cpp
+View/View.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/View/View.h
+iostream
+-
+

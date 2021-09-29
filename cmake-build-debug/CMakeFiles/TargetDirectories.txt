@@ -1,0 +1,3 @@
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/cmake-build-debug/CMakeFiles/casino.dir
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/CasinoEstudiantes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
